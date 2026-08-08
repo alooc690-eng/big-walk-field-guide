@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://big-walk-field-guide-altadmin01-collabs-projects.vercel.app/sitemap.xml
