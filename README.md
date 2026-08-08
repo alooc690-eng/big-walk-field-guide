@@ -34,3 +34,9 @@ site/
 ```
 
 The site is dependency-free and works in any modern browser.
+
+## Deployment
+
+The repository root also contains the production entry files used by Vercel,
+plus `robots.txt`, `sitemap.xml`, and `vercel.json` for basic SEO and hosting
+configuration.
